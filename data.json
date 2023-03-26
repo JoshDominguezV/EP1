@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Laptop",
+    "description": "Laptop de alta gama con procesador i7 y pantalla de 15 pulgadas",
+    "category": "Electrónica",
+    "price": 1000,
+    "quantity": 10
+  },
+  {
+    "name": "Smartphone",
+    "description": "Smartphone de última generación con cámara de alta resolución y pantalla OLED",
+    "category": "Electrónica",
+    "price": 800,
+    "quantity": 20
+  },
+  {
+    "name": "Botella de agua",
+    "description": "Botella de agua reutilizable de 500ml",
+    "category": "Hogar",
+    "price": 10,
+    "quantity": 50
+  },
+  {
+    "name": "Silla",
+    "description": "Silla ergonómica para oficina con ajuste de altura y respaldo",
+    "category": "Hogar",
+    "price": 200,
+    "quantity": 5
+  },
+  {
+    "name": "Camisa",
+    "description": "Camisa de vestir para hombre en color azul marino",
+    "category": "Ropa",
+    "price": 50,
+    "quantity": 15
+  },
+  {
+    "name": "Pantalón",
+    "description": "Pantalón de mezclilla para hombre en color negro",
+    "category": "Ropa",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "name": "Libreta",
+    "description": "Libreta de notas con tapa dura y hojas en blanco",
+    "category": "Oficina",
+    "price": 5,
+    "quantity": 30
+  },
+  {
+    "name": "Bolígrafo",
+    "description": "Bolígrafo de tinta negra con agarre de goma",
+    "category": "Oficina",
+    "price": 1,
+    "quantity": 100
+  },
+  {
+    "name": "Mesa",
+    "description": "Mesa de trabajo para oficina con superficie amplia y cajones de almacenamiento",
+    "category": "Hogar",
+    "price": 400,
+    "quantity": 2
+  }
+  ]
